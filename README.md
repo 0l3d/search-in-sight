@@ -2,6 +2,8 @@
 
 A simple terminal-based fuzzy finder inspired by fzf, built with Rust and Ratatui.
 
+![image](https://github.com/user-attachments/assets/efd1cd0b-d0e0-4219-a706-4a6d735b7764)
+
 ## Features
 
 - Interactive fuzzy search through piped input
