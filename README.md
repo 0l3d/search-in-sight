@@ -16,7 +16,7 @@ A simple terminal-based fuzzy finder inspired by fzf, built with Rust and Ratatu
 ### Building from source
 
 ```bash
-git clone https://github.com/0l3d/search-in-sight
+git clone https://git.sr.ht/~oled/search-in-sight
 cd search-in-sight
 cargo build --release
 ```
